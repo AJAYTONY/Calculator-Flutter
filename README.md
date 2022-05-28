@@ -1,16 +1,17 @@
-# calculator_flutter
+# Calculator App In Flutter
 
-A new Flutter project.
+This is a calculator test application built using Flutter.
 
-## Getting Started
+# Getting Started
 
-This project is a starting point for a Flutter application.
+To build and run this project:
 
-A few resources to get you started if this is your first Flutter project:
+1. Get Flutter here if you don't already have it
+2. Clone this repository
+3. cd into the repo folder
+4. run flutter run-android or flutter run-ios to build the app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Output
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![photo](https://user-images.githubusercontent.com/64533536/170837162-cab74a20-6032-4aa4-a771-e5e4b4ca695d.jpeg)
