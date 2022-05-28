@@ -14,4 +14,3 @@ To build and run this project:
 # Output
 
 
-![photo](https://user-images.githubusercontent.com/64533536/170837162-cab74a20-6032-4aa4-a771-e5e4b4ca695d.jpeg)
